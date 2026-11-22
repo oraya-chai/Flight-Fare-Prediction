@@ -1,0 +1,31 @@
+# Python and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Notebook and editor state
+.ipynb_checkpoints/
+.jupyter/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Generated predictions, caches, and trained models
+outputs/
+catboost_info/
+*.pkl
+*.pickle
+*.joblib
+*.cbm
+.pytest_cache/
+.ruff_cache/
+
+# Temporary/debug files
+*.tmp
+*~
+debug_*.ipynb

@@ -1,0 +1,9 @@
+# Tested with Python 3.13; Python 3.11+ recommended.
+numpy>=1.26,<3
+pandas>=2.2,<3
+scikit-learn>=1.5,<2
+matplotlib>=3.8,<4
+openpyxl>=3.1,<4
+jupyterlab>=4.2,<5
+ipykernel>=6.29,<8
+xgboost>=2.1,<4
